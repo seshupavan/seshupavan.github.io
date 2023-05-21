@@ -1,11 +1,11 @@
 # Site settings
-title: Andrej Karpathy blog
+title: Nipun Agarwala blog
 email: 
-description: "Musings of a Computer Scientist."
+description: "Random thoughts."
 baseurl: ""
-url: "http://karpathy.github.io"
-twitter_username: karpathy
-github_username:  karpathy
+url: "http://nipunagarwala.github.io"
+# twitter_username: karpathy
+# github_username:  karpathy
 
 # Build settings
 markdown: kramdown
