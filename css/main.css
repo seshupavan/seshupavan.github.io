@@ -1,5 +1,9 @@
 /* Base */
 /* ----------------------------------------------------------*/
+@import url("https://fonts.googleapis.com/css?family=Lora");body,h1,h2,h3,h4,h5,h6,p,blockquote,pre,hr,dl,dd,ol,ul,figure {
+    margin: 0;
+    padding: 0
+}
 
 * {
   margin: 0;
@@ -9,14 +13,14 @@
 html, body { height: 100%; }
 
 body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Lora, serif;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1;
   font-weight: 300;
   background-color: #fdfdfd;
 }
 
-h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
+h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 200; }
 
 a         { color: #2a7ae2; text-decoration: none; }
 a:hover   { color: #000; text-decoration: underline; }
@@ -199,17 +203,17 @@ a:visited { color: #205caa; }
 
 .post-content h2 {
   font-size: 32px;
-  letter-spacing: -1.25px;
+/*  letter-spacing: -1.25px;*/
 }
 
 .post-content h3 {
   font-size: 26px;
-  letter-spacing: -1px;
+/*  letter-spacing: -1px;*/
 }
 
 .post-content h4 {
   font-size: 20px;
-  letter-spacing: -1px;
+/*  letter-spacing: -1px;*/
 }
 
 .post-content blockquote {
