@@ -5,7 +5,7 @@ title: About
 # includelink: true
 ---
 
-I am an ASIC designer at NVIDIA, where I help investigate, build and tapeout next-generation GPU hardware. I have contributed to features in Ampere, Hopper and am currently working on next-generation GPUs for machine learning and gaming cards.
+I am an ASIC designer at NVIDIA, where I help investigate, build and tapeout next-generation GPU hardware. I have contributed to features in Ampere, Hopper and am currently working on next-generation GPUs for machine learning and graphics.
 
 <br />
 
