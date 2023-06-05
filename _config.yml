@@ -5,7 +5,7 @@ description: "Random thoughts."
 baseurl: ""
 url: "http://nipunagarwala.github.io"
 # twitter_username: karpathy
-# github_username:  karpathy
+github_username:  nipunagarwala
 
 # Build settings
 markdown: kramdown
@@ -16,3 +16,6 @@ kramdown:
   input: GFM
   auto_ids: true
   syntax_highlighter: rouge
+
+plugins:
+    - jekyll-seo-tag
