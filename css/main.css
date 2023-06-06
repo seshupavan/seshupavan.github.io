@@ -1,6 +1,6 @@
 /* Base */
 /* ----------------------------------------------------------*/
-@import url("https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap");body,h1,h2,h3,h4,h5,h6,p,blockquote,pre,hr,dl,dd,ol,ul,figure {
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap");body,h1,h2,h3,h4,h5,h6,p,blockquote,pre,hr,dl,dd,ol,ul,figure {
     margin: 0;
     padding: 0
 }
@@ -168,6 +168,17 @@ ul,ol {
   display: block;
   font-size: 15px;
   color: #818181;
+}
+
+.sectionHeader {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.one {
+  width: 160px;
+  height: 160px;
+  position: relative;
 }
 
 

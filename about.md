@@ -19,8 +19,8 @@ My background guides my thoughts across the stack in research and design.
 
 <br />
 
-In my free time, I travel and hike regularly. During childhood, I was fortunate to have traveled to many countries, and now I continue to do so inside and outside the US. 
+In my free time, I travel and hike regularly. During my childhood, I was fortunate to have traveled to many countries, and now I continue to do so inside and outside the US. 
 
 <br />
 
-Unlike many people's work, most of my work isn't public, partly due to how the field of chip architecture has evolved over time (and also because I am terrible at cataloging my work or preparing it for public consumption!). That being said, I hope to share my thoughts, learnings and observations here, so as to get people excited in this field and just raise general awareness!
+Unlike many people's work, most of my work isn't public, partly due to how the field of chip architecture has evolved over time (and also because I am terrible at cataloging my work and preparing it for public consumption!). That being said, I hope to share my thoughts, learnings and observations here, and any public facing work so as to get people excited in this field and just raise general awareness!
