@@ -1,0 +1,10 @@
+---
+layout: page
+---
+
+<div class="books">
+
+{% assign books = site.pages | where: 'name','books.md' %}
+{{books}}
+
+</div>

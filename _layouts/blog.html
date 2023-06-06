@@ -2,7 +2,10 @@
 layout: page
 ---
 
-{{ content }}
+<!-- {{ content }} -->
+{% assign blog = site.pages | where: 'name','blog.md' %}
+{{blog}}
+
 <div class="blog">
   
   <ul class="posts">
