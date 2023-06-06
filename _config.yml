@@ -2,9 +2,8 @@
 title: Nipun Agarwala
 email: 
 description: "Random thoughts."
-baseurl: ""
+# baseurl: ""
 url: "http://nipunagarwala.github.io"
-# twitter_username: karpathy
 github_username:  nipunagarwala
 
 # Build settings
