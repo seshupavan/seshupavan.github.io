@@ -1,10 +1,10 @@
 # Site settings
-title: Nipun Agarwala
-email: 
-description: "Random thoughts."
+title: Seshu Pavan
+email: seshupavan05@gmail.com
+description: "My Personal Blog"
 # baseurl: ""
-url: "http://nipunagarwala.github.io"
-github_username:  nipunagarwala
+url: "http://seshupavan.github.io"
+github_username:  seshupavan
 
 # Build settings
 markdown: kramdown
