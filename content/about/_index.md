@@ -1,0 +1,9 @@
+I have nearly 1 year of experience working as a product engineer at a deep-tech startup that developed a speech therapy application for stuttering and other speech disorders. My role includes working on user experience, product research, design & development, collaborating with our team and healthcare providers to formulate technological solutions, and evaluating machine learning models for their practical use cases.
+
+The transformative potential of Artificial Intelligence (AI) in healthcare is something I strongly believe in, especially for detection, diagnosis and enhancing communication between patients and healthcare providers. To explore these possibilities further, I actively participate in the [MEXA community](https://mexa.app/), engaging in collaborative projects and hackathons focused on Generative AI in mental healthcare.
+
+I enjoy contributing to open science initiatives. The [Community Computer Vision Course](https://huggingface.co/learn/computer-vision-course/en/unit0/welcome/welcome#meet-our-team) I co-authored for Hugging Face is being read by thousands of people. Our proposed solution for better diagnosing mental health using a multimodal approach—incorporating text, speech, and video—won 3rd prize out of 22 teams in a hackathon. You can check our [submission deck](https://airtable.com/app3qpCRLWwTWEy6S/shrel1FAU9sB7zypZ?detail=eyJwYWdlSWQiOiJwYWc2c1Bydm5LQXVjbXI4cyIsInJvd0lkIjoicmVjQTFDNmZkMGp6YjFkTHciLCJzaG93Q29tbWVudHMiOmZhbHNlLCJxdWVyeU9yaWdpbkhpbnQiOnsidHlwZSI6InBhZ2VFbGVtZW50IiwiZWxlbWVudElkIjoicGVsQVlySkw0dGhqTkZkUVMiLCJxdWVyeUNvbnRhaW5lcklkIjoicGVsMEtzdTJrWWUxcjZ6TnQifX0).
+
+Beyond technology, I enjoy reading books, playing badminton, gardening, and pursuing anything that sparks my curiosity and amazement.
+
+If we've crossed paths before or you'd like to share something anonymously, you can give me [anonymous feedback](https://www.admonymous.co/pavan05).

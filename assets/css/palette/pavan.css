@@ -1,0 +1,21 @@
+:root {
+    --bg-color: #FAF0E6;
+    --bg-variant: #b6b6b6;
+    --primary: #E84545;
+    --primary-variant: #c10e0e;
+    --secondary: #df0f0f;
+    --font-color: #1a1a1a;
+}
+
+.dark {
+    --bg-color: #212121;
+    --bg-variant: #212121;
+    --primary: #67aec5;
+    --primary-variant: #A5D7E8;
+    --secondary: #2F58CD;
+    --font-color: #f1f1f1;
+}
+
+/*body {*/
+/*    background-image: url('../../../images/topo.svg') !important;*/
+/*}*/

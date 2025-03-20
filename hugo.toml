@@ -1,0 +1,56 @@
+title = 'Seshu Pavan Mutyala'
+theme = 'not-much'
+languageCode = 'en-us'
+baseURL = 'https://seshupavan.github.io/'
+copyright = "Crafted with ❤️ by Pavan"
+showThemeNotice = true
+
+
+[markup]
+  [markup.highlight]
+    style = 'dracula'
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+theme = "light"
+palette = "pavan"
+showThemeNotice = true
+showPostsSummary = true
+
+# Navigation
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "home"
+    title = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "About"
+    url = "/about"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/posts"
+    weight = 3
+
+#  [[menu.main]]
+#    identifier = "github"
+#    name = "github"
+#    title = "GitHub"
+#    url = ""
+#    weight = 4
+
+
+
+
+
+
