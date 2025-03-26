@@ -2,7 +2,7 @@
 title: "How to make better speech therapy applications?"
 date: 2025-03-26
 slug: "speech-therapy-apps"
-description: "This is an example post for not-much theme."
+description: "Insights from a start-up, hundreds of conversations and self-reflection."
 keywords: ["gohugo", "hugo", "go", "blog"]
 draft: false
 tags: ["speech therapy apps", "stuttering", "stammering", "product"]
