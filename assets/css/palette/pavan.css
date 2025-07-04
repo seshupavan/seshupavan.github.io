@@ -3,7 +3,7 @@
     --bg-variant: #b6b6b6;
     --primary: #E84545;
     --primary-variant: #c10e0e;
-    --secondary: #df0f0f;
+    --secondary: #f58585;
     --font-color: #1a1a1a;
 }
 
@@ -19,3 +19,7 @@
 /*body {*/
 /*    background-image: url('../../../images/topo.svg') !important;*/
 /*}*/
+
+html {
+    font-size: 17px;
+}
