@@ -1,26 +1,20 @@
 /* ============================================================
    Full-width responsive layout for Congo
-   • Uses the full screen width with gutters that scale by screen
-   • Caps on ultra-wide / 4K so it never overstretches
-   • Home, About and list pages fill the width
-   • Blog posts keep a comfortable, centered reading column
+   Everything (home, about, blog list, blog posts, favourites)
+   fills the screen width, with gutters that scale by screen size
+   and a cap on ultra-wide monitors.
    ============================================================ */
 
-/* 1) Page frame ------------------------------------------------- */
 body {
-  max-width: 110rem !important;     /* full width up to ~1760px, then centers on ultra-wide */
+  max-width: 110rem !important;   /* full width up to ~1760px, then centers on ultra-wide/4K */
   margin-left: auto !important;
   margin-right: auto !important;
-  padding-left: 1rem !important;    /* gutters grow with screen size ↓ */
+  padding-left: 1rem !important;
   padding-right: 1rem !important;
 }
 @media (min-width: 640px)  { body { padding-left: 2rem !important; padding-right: 2rem !important; } }
 @media (min-width: 1024px) { body { padding-left: 3rem !important; padding-right: 3rem !important; } }
 @media (min-width: 1536px) { body { padding-left: 4rem !important; padding-right: 4rem !important; } }
 
-/* 2) Home, About and list/section pages fill the width ---------- */
+/* Make all content fill the width */
 .max-w-prose { max-width: 100% !important; }
-
-/* 3) Blog posts: comfortable, centered reading column ----------- */
-main > article { max-width: 80rem !important; margin-left: auto !important; margin-right: auto !important; }
-main > article .max-w-prose { max-width: 72ch !important; }
