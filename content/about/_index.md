@@ -1,3 +1,9 @@
+---
+title: "About"
+description: "About Seshu Pavan Mutyala"
+showTableOfContents: false
+---
+
 I have nearly 1 year of experience working as a product engineer at a deep-tech startup that developed a speech therapy application for stuttering and other speech disorders. My role includes working on user experience, product research, design & development, collaborating with our team and healthcare providers to formulate technological solutions, and evaluating machine learning models for their practical use cases.
 
 The transformative potential of Artificial Intelligence (AI) in healthcare is something I strongly believe in, especially for detection, diagnosis and enhancing communication between patients and healthcare providers. To explore these possibilities further, I actively participate in the [MEXA community](https://mexa.app/), engaging in collaborative projects and hackathons focused on Generative AI in mental healthcare.

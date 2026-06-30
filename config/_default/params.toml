@@ -1,0 +1,43 @@
+colorScheme = "congo"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+defaultThemeColor = "#FFFFFF"
+
+enableSearch = true
+enableCodeCopy = true
+enableImageLazyLoading = true
+enableImageWebp = true
+fingerprintAlgorithm = "sha256"
+
+[header]
+  layout = "basic"
+  showTitle = true
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "profile"
+  showRecent = true
+  recentLimit = 5
+
+[article]
+  showDate = true
+  showAuthor = true
+  showBreadcrumbs = false
+  showReadingTime = true
+  showHeadingAnchors = true
+  showPagination = true
+  showTaxonomies = true
+  showWordCount = false
+  showTableOfContents = true
+
+[list]
+  showSummary = true
+  groupByYear = true
+
+[taxonomy]
+  showTermCount = true

@@ -1,7 +1,5 @@
 ---
-lead: "👨🏻‍💻 Software Engineer"
+description: "Software engineer from India, working on AI in healthcare."
 ---
 
-I’m a 25-year-old software engineer from India with a bachelor’s degree in computer science and a passion for data science. I love working with AI in healthcare and enjoy building projects that explore its possibilities. Feel free to connect and read more [about myself](./about).
-
-[🐈‍⬛ github](https://github.com/seshupavan) · [💼 linkedin](https://www.linkedin.com/in/seshupavan/) · [📧 email](mailto:seshupavan05@gmail.com)
+I'm a software engineer from India with a bachelor's degree in computer science and a passion for data science. I love working with AI in healthcare and enjoy building projects that explore its possibilities. Read more [about me](/about), or find my latest writing below.
