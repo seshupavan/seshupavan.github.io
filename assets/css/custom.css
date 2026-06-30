@@ -1,12 +1,7 @@
-/* ============================================================
-   Full-width responsive layout for Congo
-   Everything (home, about, blog list, blog posts, favourites)
-   fills the screen width, with gutters that scale by screen size
-   and a cap on ultra-wide monitors.
-   ============================================================ */
+
 
 body {
-  max-width: 110rem !important;   /* full width up to ~1760px, then centers on ultra-wide/4K */
+  max-width: 110rem !important;
   margin-left: auto !important;
   margin-right: auto !important;
   padding-left: 1rem !important;
@@ -16,5 +11,14 @@ body {
 @media (min-width: 1024px) { body { padding-left: 3rem !important; padding-right: 3rem !important; } }
 @media (min-width: 1536px) { body { padding-left: 4rem !important; padding-right: 4rem !important; } }
 
-/* Make all content fill the width */
+/* All content fills the width */
 .max-w-prose { max-width: 100% !important; }
+
+/* Keep the in-post Table of Contents readable — give it a fixed width
+   so the body text can't squeeze it into a thin strip (wide screens only). */
+@media (min-width: 1024px) {
+  main article section > div:has(> .toc) {
+    flex: 0 0 20rem !important;
+    max-width: 20rem !important;
+  }
+}
