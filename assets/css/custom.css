@@ -1,13 +1,19 @@
-/* Full-width layout: remove Congo's centered max-width cap and trim side padding */
+/* Full-width layout for Congo */
+
+/* 1. Remove the centered page cap, trim side padding */
 body {
   max-width: 100% !important;
   padding-left: 1.5rem !important;
   padding-right: 1.5rem !important;
 }
-
 @media (min-width: 1024px) {
   body {
     padding-left: 2.5rem !important;
     padding-right: 2.5rem !important;
   }
+}
+
+/* 2. Let page / blog / list content fill the width (not a narrow 65ch column) */
+.max-w-prose {
+  max-width: 100% !important;
 }
