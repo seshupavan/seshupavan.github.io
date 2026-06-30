@@ -1,12 +1,17 @@
 [[main]]
-  name = "Posts"
-  pageRef = "posts"
+  name = "Blog"
+  pageRef = "blog"
   weight = 10
+
+[[main]]
+  name = "Favourites"
+  pageRef = "favourites"
+  weight = 20
 
 [[main]]
   name = "About"
   pageRef = "about"
-  weight = 20
+  weight = 30
 
 [[main]]
   identifier = "search"

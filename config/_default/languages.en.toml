@@ -6,6 +6,7 @@ title = "Seshu Pavan Mutyala"
 copyright = "Crafted with ❤️ by Pavan"
 
 [params]
+  mainSections = ["blog"]
   dateFormat = "2 January 2006"
 
 [params.author]
